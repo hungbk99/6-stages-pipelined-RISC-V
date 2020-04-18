@@ -1,0 +1,1 @@
+Specification and detail descriptions for 32 bit low power RISC-V processor
