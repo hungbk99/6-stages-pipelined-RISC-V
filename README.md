@@ -1,2 +1,2 @@
 # 6-stages-pipelined-RISC-V
-A 32 bit low power pipelined RISC processor
+This is my first project in Digital System Design
